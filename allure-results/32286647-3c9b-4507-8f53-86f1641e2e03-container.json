@@ -1,0 +1,1 @@
+{"uuid":"32286647-3c9b-4507-8f53-86f1641e2e03","name":"com.global.BaseTest.login","children":["56cc06d1-6df6-4d5f-96dd-57f4818fa955"],"description":"","befores":[{"name":"login","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1692615903341,"stop":1692615909946}],"afters":[],"start":1692615903341,"stop":1692615909946}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-21T16:34:52 IST" name="Amazon" finished-at="2023-08-21T16:36:24 IST" duration-ms="92028">
+    <groups>
+    </groups>
+    <test started-at="2023-08-21T16:34:52 IST" name="Test" finished-at="2023-08-21T16:36:24 IST" duration-ms="92028">
+      <class name="com.testscripts.TC_002AddToCartPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testscripts.TC_002AddToCartPage@1416a80a]" started-at="2023-08-21T16:35:37 IST" name="setUp" finished-at="2023-08-21T16:35:45 IST" duration-ms="8172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testscripts.TC_002AddToCartPage@1416a80a]" started-at="2023-08-21T16:35:45 IST" name="login" finished-at="2023-08-21T16:35:50 IST" duration-ms="5274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addToCartTest()[pri:0, instance:com.testscripts.TC_002AddToCartPage@1416a80a]" started-at="2023-08-21T16:35:50 IST" name="addToCartTest" finished-at="2023-08-21T16:36:20 IST" duration-ms="30208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:com.testscripts.TC_002AddToCartPage@1416a80a]" started-at="2023-08-21T16:36:20 IST" name="logOut" finished-at="2023-08-21T16:36:23 IST" duration-ms="2569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.testscripts.TC_002AddToCartPage@1416a80a]" started-at="2023-08-21T16:36:23 IST" name="quit" finished-at="2023-08-21T16:36:24 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.testscripts.TC_002AddToCartPage -->
+      <class name="com.testscripts.TC_001SearchProductPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testscripts.TC_001SearchProductPage@43da41e]" started-at="2023-08-21T16:34:52 IST" name="setUp" finished-at="2023-08-21T16:35:03 IST" duration-ms="11047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testscripts.TC_001SearchProductPage@43da41e]" started-at="2023-08-21T16:35:03 IST" name="login" finished-at="2023-08-21T16:35:09 IST" duration-ms="6606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchMobileTest()[pri:0, instance:com.testscripts.TC_001SearchProductPage@43da41e]" started-at="2023-08-21T16:35:10 IST" name="searchMobileTest" finished-at="2023-08-21T16:35:34 IST" duration-ms="24019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMobileTest -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:com.testscripts.TC_001SearchProductPage@43da41e]" started-at="2023-08-21T16:35:34 IST" name="logOut" finished-at="2023-08-21T16:35:36 IST" duration-ms="2527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.testscripts.TC_001SearchProductPage@43da41e]" started-at="2023-08-21T16:35:36 IST" name="quit" finished-at="2023-08-21T16:35:37 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.testscripts.TC_001SearchProductPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Amazon -->
+</testng-results>

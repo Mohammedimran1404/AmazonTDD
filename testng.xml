@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Amazon">
+	<listeners>
+		<listener class-name="com.global.Listeners"/>
+	</listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.testscripts.TC_001SearchProductPage"/>
+      <class name="com.testscripts.TC_002AddToCartPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

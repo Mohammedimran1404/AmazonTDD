@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Amazon]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.global.ListenersUtility"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.testscripts.TC_001SearchProductPage">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="login"/>
+          <include name="logOut"/>
+          <include name="quit"/>
+          <include name="searchMobileTest"/>
+        </methods>
+      </class> <!-- com.testscripts.TC_001SearchProductPage -->
+      <class name="com.testscripts.TC_002AddToCartPage">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="login"/>
+          <include name="logOut"/>
+          <include name="quit"/>
+          <include name="addToCartTest"/>
+        </methods>
+      </class> <!-- com.testscripts.TC_002AddToCartPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Amazon] -->

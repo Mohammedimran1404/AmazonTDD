@@ -1,0 +1,1279 @@
+8:08:2023  12:24:31 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  12:24:38 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  12:24:38 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  12:24:38 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  12:24:41 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  12:24:41 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  12:24:43 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  12:24:43 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  12:24:44 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  12:24:48 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  12:24:53 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  12:24:56 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  12:25:11 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  12:25:17 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  12:25:17 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  12:25:17 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  12:25:19 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  12:25:20 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  12:25:21 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  12:25:22 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  12:25:22 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  12:25:25 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  12:25:29 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  12:25:31 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  13:49:50 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  13:49:55 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  13:49:55 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  13:49:55 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  13:49:58 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  13:49:58 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  13:50:00 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  13:50:01 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  13:50:01 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  13:50:06 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  13:50:10 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  13:50:13 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  13:52:35 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  13:52:40 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  13:52:40 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  13:52:40 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  13:52:43 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  13:52:43 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  13:52:45 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  13:52:45 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  13:52:45 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  13:52:50 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  13:52:54 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  13:52:57 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  13:56:21 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  13:56:26 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  13:56:26 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  13:56:26 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  13:56:28 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  13:56:29 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  13:56:31 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  13:56:31 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  13:56:31 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  13:56:35 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  13:56:40 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  13:56:43 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:02:35 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:02:40 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:02:40 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:02:40 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:02:42 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:02:42 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:02:44 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:02:44 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:02:44 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:02:48 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:02:51 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:02:51 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:02:56 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:02:56 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  14:02:57 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  14:02:57 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  14:02:57 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  14:02:59 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:12:38 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:12:45 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:12:45 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:12:45 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:12:48 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:12:48 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:12:50 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:12:50 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:12:50 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:12:55 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:12:59 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:13:00 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:13:08 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:13:08 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  14:13:08 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  14:13:08 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  14:13:08 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  14:13:11 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:24:22 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:24:28 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:24:28 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:24:29 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:24:31 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:24:31 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:24:34 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:24:34 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:24:34 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:24:39 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:24:43 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:24:43 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:24:52 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:24:52 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  14:24:52 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  14:24:52 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  14:24:52 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  14:24:55 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:53:15 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.14.53.15.html Report generating started
+8:08:2023  14:53:19 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:53:24 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:53:24 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:53:24 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:53:27 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:53:27 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:53:29 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:53:29 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:53:30 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:53:30 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  14:53:34 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:53:39 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:53:39 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:53:47 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:53:48 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  14:53:48 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  14:53:48 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  14:53:48 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  14:53:48 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  14:53:51 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:53:53 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:53:58 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:53:58 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:53:58 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:54:01 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:54:01 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:54:03 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:54:03 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:54:03 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:54:03 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  14:54:08 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:54:12 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:54:12 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:54:20 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:54:24 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  14:54:34 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  14:54:34 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  14:54:35 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:54:35 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  14:57:30 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.14.57.30.html Report generating started
+8:08:2023  14:57:33 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:57:39 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:57:40 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:57:40 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:57:42 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:57:42 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:57:45 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:57:45 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:57:45 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:57:45 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  14:57:51 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:57:55 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:58:03 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:58:03 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:58:04 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  14:58:04 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  14:58:04 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  14:58:04 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  14:58:04 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  14:58:07 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:58:09 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  14:58:16 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  14:58:16 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  14:58:16 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  14:58:18 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  14:58:18 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  14:58:21 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  14:58:21 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  14:58:21 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  14:58:21 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  14:58:26 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  14:58:30 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  14:58:38 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  14:58:38 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  14:58:42 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  14:58:52 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  14:58:52 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  14:58:53 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  14:58:54 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  15:02:52 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.02.52.html Report generating started
+8:08:2023  15:02:56 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:03:01 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:03:01 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:03:01 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:03:03 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:03:04 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:03:06 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:03:06 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:03:06 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:03:06 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:03:11 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:03:15 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:03:55 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.03.55.html Report generating started
+8:08:2023  15:03:58 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:04:03 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:04:03 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:04:04 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:04:06 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:04:06 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:04:09 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:04:09 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:04:09 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:04:09 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:04:14 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:04:18 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:04:18 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:04:26 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:04:26 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  15:04:27 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  15:04:27 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  15:04:27 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  15:04:27 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  15:04:30 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:04:32 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:04:36 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:04:36 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:04:36 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:04:39 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:04:39 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:04:41 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:04:42 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:04:42 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:04:42 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  15:04:47 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:04:51 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:04:52 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:04:59 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:05:03 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:05:13 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:05:13 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:05:13 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:05:14 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  15:07:22 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.07.22.html Report generating started
+8:08:2023  15:07:25 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:07:30 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:07:30 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:07:30 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:07:32 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:07:33 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:07:35 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:07:35 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:07:35 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:07:35 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:07:39 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:07:44 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:08:08 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.08.08.html Report generating started
+8:08:2023  15:08:12 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:08:16 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:08:16 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:08:17 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:08:19 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:08:19 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:08:21 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:08:22 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:08:22 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:08:22 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:08:26 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:08:31 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:08:31 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:08:39 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:08:39 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  15:08:39 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  15:08:39 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  15:08:40 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  15:08:40 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  15:08:43 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:08:45 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:08:49 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:08:49 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:08:49 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:08:52 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:08:52 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:08:54 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:08:54 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:08:54 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:08:54 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  15:08:59 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:09:03 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:09:04 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:09:11 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:09:15 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:09:25 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:09:25 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:09:26 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:09:26 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  15:11:22 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.11.22.html Report generating started
+8:08:2023  15:11:26 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:11:30 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:11:30 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:11:31 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:11:33 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:11:33 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:11:35 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:11:35 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:11:35 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:11:35 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:11:40 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:11:45 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:11:46 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:11:53 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:11:53 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  15:11:53 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  15:11:54 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  15:11:54 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  15:11:54 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  15:11:54 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:11:56 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:12:00 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:12:00 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:12:01 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:12:03 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:12:03 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:12:05 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:12:05 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:12:06 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:12:06 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  15:12:11 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:12:15 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:12:15 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:12:23 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:12:27 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:12:37 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:12:37 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  15:12:38 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:12:38 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  15:22:10 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:22:14 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:22:14 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:22:15 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:22:17 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:22:17 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:22:19 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:22:19 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:22:19 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:22:24 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:22:28 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:22:29 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:22:36 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:22:40 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:22:51 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:28:25 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:28:31 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:28:32 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:28:32 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:28:34 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:28:34 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:28:37 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:28:37 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:28:37 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:28:42 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:28:46 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:28:54 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:28:54 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:28:58 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:28:59 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:34:16 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:34:20 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:34:21 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:34:21 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:34:23 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:34:23 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:34:25 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:34:25 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:34:25 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:34:28 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:34:31 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:34:32 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:34:37 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:34:39 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:34:40 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:38:05 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:38:09 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:38:10 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:38:10 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:38:12 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:38:12 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:38:14 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:38:14 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:38:15 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:38:19 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:38:24 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:38:31 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:38:31 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:38:35 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:38:35 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:40:40 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:40:45 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:40:45 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:40:45 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:40:47 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:40:47 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:40:49 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:40:49 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:40:49 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:40:53 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:40:56 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:41:02 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:41:02 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:41:05 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:41:06 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:42:55 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:42:58 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:42:59 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:42:59 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:43:00 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:43:00 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:43:02 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:43:02 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:43:02 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:43:05 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:43:08 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:43:08 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:43:15 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:43:17 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:46:07 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:46:07 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:46:11 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:46:12 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:46:12 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:46:12 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:46:12 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:46:12 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:46:14 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:46:14 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:46:14 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:46:14 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:46:16 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:46:20 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:46:20 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:46:23 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:46:23 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:46:23 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:46:24 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:46:30 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:46:31 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:46:32 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:46:33 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:48:27 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:48:30 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:48:30 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:48:30 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:48:31 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:48:31 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:48:33 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:48:33 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:48:33 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:48:36 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:48:39 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:48:45 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:48:45 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:48:48 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:50:22 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:50:25 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:50:25 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:50:25 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:50:26 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:50:26 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:50:28 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:50:28 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:50:28 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:50:32 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:50:34 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:50:35 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:50:40 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:50:42 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:51:29 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.15.51.29.html Report generating started
+8:08:2023  15:51:31 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:51:34 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:51:34 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:51:34 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:51:35 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:51:35 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:51:37 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:51:37 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:51:37 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:51:37 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  15:51:40 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:51:43 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:51:44 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:52:04 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:52:07 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:52:07 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:52:07 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:52:09 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:52:09 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:52:11 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:52:11 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:52:11 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:52:14 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:52:17 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:52:17 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:52:23 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:52:25 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:52:25 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:53:22 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:53:23 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:53:23 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:53:55 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:53:57 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:53:58 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:53:58 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:53:59 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:53:59 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:54:01 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:54:01 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:54:01 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:54:04 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:54:07 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:54:07 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:54:13 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:54:15 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:54:15 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  15:56:11 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  15:56:14 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  15:56:14 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  15:56:14 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  15:56:15 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  15:56:15 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  15:56:17 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  15:56:17 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  15:56:17 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  15:56:19 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  15:56:21 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  15:56:21 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  15:56:25 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  15:56:27 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  15:56:38 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  16:01:48 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  16:01:50 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  16:01:51 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  16:01:51 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  16:01:52 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  16:01:52 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  16:01:54 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  16:01:54 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  16:01:54 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  16:01:57 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  16:02:00 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  16:02:00 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  16:02:06 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  16:02:08 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  16:02:08 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  16:04:03 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  16:04:06 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  16:04:06 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  16:04:06 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  16:04:08 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  16:04:08 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  16:04:10 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  16:04:10 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  16:04:10 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  16:04:13 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  16:04:16 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  16:04:16 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  16:04:22 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  16:04:24 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  16:04:24 [main] INFO  CreateLog:8 - validated price of product
+8:08:2023  16:04:24 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  17:42:50 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.17.42.50.html Report generating started
+8:08:2023  17:42:53 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  17:42:56 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  17:42:56 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  17:42:57 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  17:42:58 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  17:42:58 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  17:43:00 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  17:43:00 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  17:43:00 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  17:43:00 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  17:43:03 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  17:43:06 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  17:43:12 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  17:43:12 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  17:43:13 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  17:43:14 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  17:43:17 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  17:43:17 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  17:43:17 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  17:43:18 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  17:43:18 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  17:43:20 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  17:43:20 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  17:43:20 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  17:43:20 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  17:43:23 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  17:43:26 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  17:43:32 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  17:43:32 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  17:43:34 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  17:43:34 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  17:43:34 [main] ERROR CreateLog:14 - addToCartTest Test case failed
+8:08:2023  17:43:34 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  17:43:35 [main] INFO  CreateLog:8 - Report generated successfully
+8:08:2023  17:45:42 [main] INFO  CreateLog:8 - Test-Report-08.08.2023.17.45.42.html Report generating started
+8:08:2023  17:45:44 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  17:45:47 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  17:45:47 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  17:45:47 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  17:45:48 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  17:45:48 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  17:45:50 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  17:45:50 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  17:45:50 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  17:45:50 [main] INFO  CreateLog:8 - searchMobileTest Test case started
+8:08:2023  17:45:54 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  17:45:56 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  17:45:57 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Mouse hover is done to the product
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Image is validated
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Curser is moved to other product
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Zoomimage is not present after curser is move to other element
+8:08:2023  17:46:02 [main] INFO  CreateLog:11 - searchMobileTest Test case executed successfully
+8:08:2023  17:46:02 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  17:46:04 [main] INFO  CreateLog:8 - ChromeBrowser is launched
+8:08:2023  17:46:07 [main] INFO  CreateLog:8 - URL is launched
+8:08:2023  17:46:07 [main] INFO  CreateLog:8 - Window is maximized
+8:08:2023  17:46:07 [main] INFO  CreateLog:8 - Mousehover action is done
+8:08:2023  17:46:09 [main] INFO  CreateLog:8 - Signin button is clicked
+8:08:2023  17:46:09 [main] INFO  CreateLog:8 - Email id is entered
+8:08:2023  17:46:11 [main] INFO  CreateLog:8 - Continue button is clicked
+8:08:2023  17:46:11 [main] INFO  CreateLog:8 - Password is entered
+8:08:2023  17:46:11 [main] INFO  CreateLog:8 - Sign in button is clicked
+8:08:2023  17:46:11 [main] INFO  CreateLog:8 - addToCartTest Test case started
+8:08:2023  17:46:14 [main] INFO  CreateLog:8 - Mobile name is entered in search bar
+8:08:2023  17:46:17 [main] INFO  CreateLog:8 - Search bar icon is clicked
+8:08:2023  17:46:17 [main] INFO  CreateLog:8 - Product is clicked
+8:08:2023  17:46:23 [main] INFO  CreateLog:8 - Window is handle
+8:08:2023  17:46:25 [main] INFO  CreateLog:8 - Add to cart is clicked
+8:08:2023  17:46:25 [main] INFO  CreateLog:8 - validated price of product
+8:08:2023  17:46:25 [main] INFO  CreateLog:11 - addToCartTest Test case executed successfully
+8:08:2023  17:46:25 [main] INFO  CreateLog:8 - Driver is quit
+8:08:2023  17:46:26 [main] INFO  CreateLog:8 - Report generated successfully
+9:08:2023  10:10:16 [main] INFO  CreateLog:16 - Test-Report-09.08.2023.10.10.16.html Report generating started
+9:08:2023  10:10:21 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  10:10:27 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  10:10:28 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  10:10:28 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  10:10:30 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  10:10:30 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  10:10:32 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  10:10:33 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  10:10:33 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  10:10:33 [main] INFO  CreateLog:16 - searchMobileTest Test case started
+9:08:2023  10:10:39 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  10:10:43 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  10:10:43 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  10:10:56 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  10:10:58 [main] INFO  CreateLog:16 - Mouse hover is done to the product
+9:08:2023  10:10:59 [main] INFO  CreateLog:16 - Image is validated
+9:08:2023  10:10:59 [main] INFO  CreateLog:16 - Curser is moved to other product
+9:08:2023  10:10:59 [main] INFO  CreateLog:16 - Zoomimage is not present after curser is move to other element
+9:08:2023  10:10:59 [main] INFO  CreateLog:23 - searchMobileTest Test case executed successfully
+9:08:2023  10:10:59 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  10:11:01 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  10:11:07 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  10:11:07 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  10:11:08 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  10:11:10 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  10:11:10 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  10:11:12 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  10:11:12 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  10:11:12 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  10:11:12 [main] INFO  CreateLog:16 - addToCartTest Test case started
+9:08:2023  10:11:18 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  10:11:22 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  10:11:23 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  10:11:31 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  10:11:35 [main] INFO  CreateLog:16 - Add to cart is clicked
+9:08:2023  10:11:35 [main] INFO  CreateLog:16 - validated price of product
+9:08:2023  10:11:35 [main] INFO  CreateLog:23 - addToCartTest Test case executed successfully
+9:08:2023  10:11:36 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  10:11:37 [main] INFO  CreateLog:16 - Report generated successfully
+9:08:2023  11:08:15 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:08:22 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:08:22 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:08:22 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:08:25 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:08:25 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:08:27 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:08:27 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:08:28 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:08:34 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:08:38 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Mouse hover is done to the product
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Image is validated
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Curser is moved to other product
+9:08:2023  11:08:52 [main] INFO  CreateLog:16 - Zoomimage is not present after curser is move to other element
+9:08:2023  11:08:53 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:10:20 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:10:26 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:10:26 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:10:26 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:10:28 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:10:28 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:10:29 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:10:30 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:10:30 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:10:35 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:10:38 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:10:38 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:10:47 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:10:47 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:19:39 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:19:45 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:19:45 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:19:46 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:19:48 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:19:48 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:19:50 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:19:50 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:19:50 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:19:57 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:20:01 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:20:01 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:20:14 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:20:14 [main] INFO  CreateLog:16 - Add to cart is clicked
+9:08:2023  11:20:17 [main] INFO  CreateLog:16 - validated price of product
+9:08:2023  11:20:18 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:24:14 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:24:20 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:24:21 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:24:21 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:24:23 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:24:23 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:24:25 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:24:26 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:24:26 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:24:32 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:24:36 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:24:49 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:24:49 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:24:49 [main] INFO  CreateLog:16 - Add to cart is clicked
+9:08:2023  11:24:53 [main] INFO  CreateLog:16 - validated price of product
+9:08:2023  11:24:57 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:32:04 [main] INFO  CreateLog:16 - Test-Report-09.08.2023.11.32.04.html Report generating started
+9:08:2023  11:32:07 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:32:14 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:32:14 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:32:14 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:32:17 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:32:17 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:32:19 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:32:19 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:32:19 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:32:20 [main] INFO  CreateLog:16 - searchMobileTest Test case started
+9:08:2023  11:32:26 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:32:30 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:32:30 [main] ERROR CreateLog:30 - searchMobileTest Test case failed
+9:08:2023  11:32:33 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:32:35 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:32:41 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:32:41 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:32:42 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:32:44 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:32:44 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:32:46 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:32:46 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:32:47 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:32:47 [main] INFO  CreateLog:16 - addToCartTest Test case started
+9:08:2023  11:32:53 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:32:58 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:32:58 [main] ERROR CreateLog:30 - addToCartTest Test case failed
+9:08:2023  11:32:59 [main] INFO  CreateLog:16 - Report generated successfully
+9:08:2023  11:38:23 [main] INFO  CreateLog:16 - Test-Report-09.08.2023.11.38.23.html Report generating started
+9:08:2023  11:38:26 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:38:32 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:38:33 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:38:33 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:38:35 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:38:35 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:38:38 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:38:38 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:38:38 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:38:38 [main] INFO  CreateLog:16 - searchMobileTest Test case started
+9:08:2023  11:38:44 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:38:48 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:38:49 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:39:01 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:39:01 [main] INFO  CreateLog:16 - Mouse hover is done to the product
+9:08:2023  11:39:01 [main] INFO  CreateLog:16 - Image is validated
+9:08:2023  11:39:01 [main] INFO  CreateLog:16 - Curser is moved to other product
+9:08:2023  11:39:02 [main] INFO  CreateLog:16 - Zoomimage is not present after curser is move to other element
+9:08:2023  11:39:02 [main] INFO  CreateLog:23 - searchMobileTest Test case executed successfully
+9:08:2023  11:39:05 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:39:07 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  11:39:13 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  11:39:13 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  11:39:14 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  11:39:16 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  11:39:16 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  11:39:18 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  11:39:18 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  11:39:18 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  11:39:18 [main] INFO  CreateLog:16 - addToCartTest Test case started
+9:08:2023  11:39:25 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  11:39:29 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  11:39:29 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  11:39:43 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  11:39:43 [main] INFO  CreateLog:16 - Add to cart is clicked
+9:08:2023  11:39:46 [main] INFO  CreateLog:16 - validated price of product
+9:08:2023  11:39:49 [main] INFO  CreateLog:23 - addToCartTest Test case executed successfully
+9:08:2023  11:39:52 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  11:39:53 [main] INFO  CreateLog:16 - Report generated successfully
+9:08:2023  15:21:49 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  15:21:54 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  15:21:54 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  15:21:54 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  15:21:55 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  15:21:55 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  15:21:57 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  15:21:57 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  15:21:57 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  15:22:02 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  15:23:05 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  15:23:08 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  15:23:08 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  15:23:09 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  15:23:10 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  15:23:10 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  15:23:12 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  15:23:12 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  15:23:12 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  15:23:18 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  15:24:03 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  15:24:06 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  15:24:06 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  15:24:07 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  15:24:08 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  15:24:08 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  15:24:10 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  15:24:10 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  15:24:10 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  15:24:14 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  15:24:17 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  15:24:17 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  15:24:27 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  15:24:27 [main] INFO  CreateLog:16 - Mouse hover is done to the product
+9:08:2023  15:24:27 [main] INFO  CreateLog:16 - Image is validated
+9:08:2023  15:24:28 [main] INFO  CreateLog:16 - Curser is moved to other product
+9:08:2023  15:24:28 [main] INFO  CreateLog:16 - Zoomimage is not present after curser is move to other element
+9:08:2023  15:24:30 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  15:59:58 [main] INFO  CreateLog:16 - ChromeBrowser is launched
+9:08:2023  16:00:03 [main] INFO  CreateLog:16 - URL is launched
+9:08:2023  16:00:03 [main] INFO  CreateLog:16 - Window is maximized
+9:08:2023  16:00:04 [main] INFO  CreateLog:16 - Mousehover action is done
+9:08:2023  16:00:05 [main] INFO  CreateLog:16 - Signin button is clicked
+9:08:2023  16:00:05 [main] INFO  CreateLog:16 - Email id is entered
+9:08:2023  16:00:07 [main] INFO  CreateLog:16 - Continue button is clicked
+9:08:2023  16:00:07 [main] INFO  CreateLog:16 - Password is entered
+9:08:2023  16:00:07 [main] INFO  CreateLog:16 - Sign in button is clicked
+9:08:2023  16:00:11 [main] INFO  CreateLog:16 - Mobile name is entered in search bar
+9:08:2023  16:00:14 [main] INFO  CreateLog:16 - Search bar icon is clicked
+9:08:2023  16:00:15 [main] INFO  CreateLog:16 - Product is clicked
+9:08:2023  16:00:23 [main] INFO  CreateLog:16 - Window is handle
+9:08:2023  16:00:24 [main] INFO  CreateLog:16 - Mouse hover is done to the product
+9:08:2023  16:00:24 [main] INFO  CreateLog:16 - Image is validated
+9:08:2023  16:00:24 [main] INFO  CreateLog:16 - Curser is moved to other product
+9:08:2023  16:00:24 [main] INFO  CreateLog:16 - Zoomimage is not present after curser is move to other element
+9:08:2023  16:00:26 [main] INFO  CreateLog:16 - Driver is quit
+9:08:2023  22:03:04 [main] INFO  CreateLog:13 - Test-Report-09.08.2023.22.03.04.html Report generating started
+9:08:2023  22:03:08 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:03:15 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:03:16 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:03:16 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:03:18 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:03:18 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:03:19 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:03:20 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:03:20 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:03:20 [main] INFO  CreateLog:13 - searchMobileTest Test case started
+9:08:2023  22:03:25 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:03:28 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:03:29 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:03:38 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:03:38 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+9:08:2023  22:03:38 [main] INFO  CreateLog:13 - Image is validated
+9:08:2023  22:03:38 [main] INFO  CreateLog:13 - Curser is moved to other product
+9:08:2023  22:03:38 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+9:08:2023  22:03:38 [main] INFO  CreateLog:18 - searchMobileTest Test case executed successfully
+9:08:2023  22:03:39 [main] INFO  CreateLog:13 - curser is move to the element  
+9:08:2023  22:03:41 [main] INFO  CreateLog:13 - signout button is clicked
+9:08:2023  22:03:41 [main] INFO  CreateLog:13 - Driver is quit
+9:08:2023  22:03:43 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:03:49 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:03:49 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:03:49 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:03:51 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:03:51 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:03:56 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:03:56 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:03:56 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:03:56 [main] INFO  CreateLog:13 - addToCartTest Test case started
+9:08:2023  22:04:01 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:04:06 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:04:06 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:04:16 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:04:17 [main] INFO  CreateLog:13 - Add to cart is clicked
+9:08:2023  22:04:20 [main] INFO  CreateLog:13 - validated price of product
+9:08:2023  22:04:21 [main] INFO  CreateLog:18 - addToCartTest Test case executed successfully
+9:08:2023  22:04:22 [main] INFO  CreateLog:13 - curser is move to the element  
+9:08:2023  22:04:23 [main] INFO  CreateLog:13 - signout button is clicked
+9:08:2023  22:04:24 [main] INFO  CreateLog:13 - Driver is quit
+9:08:2023  22:04:25 [main] INFO  CreateLog:13 - Report generated successfully
+9:08:2023  22:43:15 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:43:22 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:43:22 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:43:22 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:43:24 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:43:24 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:43:26 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:43:26 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:43:26 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:43:31 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:43:34 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:43:34 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:43:44 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:43:44 [main] INFO  CreateLog:13 - Add to cart is clicked
+9:08:2023  22:46:26 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:46:32 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:46:32 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:46:32 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:46:34 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:46:34 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:46:36 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:46:36 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:46:36 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:46:41 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:46:44 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:46:53 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:46:53 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:46:54 [main] ERROR CreateLog:28 - An error occurred while clicking on Add to cart: no such element: Unable to locate element: {"method":"css selector","selector":"input#add-to-cart-butto"}
+  (Session info: chrome=115.0.5790.171)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d86cf23dc8639a90e2923d91c2d5a72, findElement {using=css selector, value=input#add-to-cart-butto}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\IMRANM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53620}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53620/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d86cf23dc8639a90e2923d91c2d5a72
+9:08:2023  22:47:04 [main] ERROR CreateLog:28 - An error occured while validating the product priceExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: span#attach-accessory-cart-subtotal' (tried for 10 second(s) with 500 milliseconds interval)
+9:08:2023  22:47:04 [main] INFO  CreateLog:13 - curser is move to the element  
+9:08:2023  22:47:06 [main] INFO  CreateLog:13 - signout button is clicked
+9:08:2023  22:47:06 [main] INFO  CreateLog:13 - Driver is quit
+9:08:2023  22:48:52 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:48:59 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:49:00 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:49:00 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:49:02 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:49:02 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:49:04 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:49:04 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:49:04 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:49:09 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:49:12 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:49:22 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:49:23 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:49:23 [main] INFO  CreateLog:13 - Add to cart is clicked
+9:08:2023  22:49:28 [main] INFO  CreateLog:13 - validated price of product
+9:08:2023  22:49:30 [main] INFO  CreateLog:13 - curser is move to the element  
+9:08:2023  22:49:32 [main] INFO  CreateLog:13 - signout button is clicked
+9:08:2023  22:49:33 [main] INFO  CreateLog:13 - Driver is quit
+9:08:2023  22:49:50 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+9:08:2023  22:49:57 [main] INFO  CreateLog:13 - URL is launched
+9:08:2023  22:49:57 [main] INFO  CreateLog:13 - Window is maximized
+9:08:2023  22:49:57 [main] INFO  CreateLog:13 - Mousehover action is done
+9:08:2023  22:49:59 [main] INFO  CreateLog:13 - Signin button is clicked
+9:08:2023  22:49:59 [main] INFO  CreateLog:13 - Email id is entered
+9:08:2023  22:50:01 [main] INFO  CreateLog:13 - Continue button is clicked
+9:08:2023  22:50:01 [main] INFO  CreateLog:13 - Password is entered
+9:08:2023  22:50:01 [main] INFO  CreateLog:13 - Sign in button is clicked
+9:08:2023  22:50:05 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+9:08:2023  22:50:08 [main] INFO  CreateLog:13 - Search bar icon is clicked
+9:08:2023  22:50:08 [main] INFO  CreateLog:13 - Product is clicked
+9:08:2023  22:50:18 [main] INFO  CreateLog:13 - Window is handle
+9:08:2023  22:50:18 [main] ERROR CreateLog:28 - An error occurred while clicking on Add to cart: no such element: Unable to locate element: {"method":"css selector","selector":"input#add-to-cart-butto"}
+  (Session info: chrome=115.0.5790.171)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef4b4d9994f164e27fd8fe773723fac5, findElement {using=css selector, value=input#add-to-cart-butto}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\IMRANM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54039}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54039/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef4b4d9994f164e27fd8fe773723fac5
+9:08:2023  22:50:28 [main] ERROR CreateLog:28 - An error occured while validating the product priceExpected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: span#attach-accessory-cart-subtotal' (tried for 10 second(s) with 500 milliseconds interval)
+9:08:2023  22:50:29 [main] INFO  CreateLog:13 - curser is move to the element  
+9:08:2023  22:50:31 [main] INFO  CreateLog:13 - signout button is clicked
+9:08:2023  22:50:31 [main] INFO  CreateLog:13 - Driver is quit
+10:08:2023  10:01:07 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+10:08:2023  10:01:14 [main] INFO  CreateLog:13 - URL is launched
+10:08:2023  10:01:14 [main] INFO  CreateLog:13 - Window is maximized
+10:08:2023  10:01:15 [main] INFO  CreateLog:13 - Mousehover action is done
+10:08:2023  10:01:17 [main] INFO  CreateLog:13 - Signin button is clicked
+10:08:2023  10:01:17 [main] INFO  CreateLog:13 - Email id is entered
+10:08:2023  10:01:20 [main] INFO  CreateLog:13 - Continue button is clicked
+10:08:2023  10:01:20 [main] INFO  CreateLog:13 - Password is entered
+10:08:2023  10:01:20 [main] INFO  CreateLog:13 - Sign in button is clicked
+10:08:2023  10:01:26 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+10:08:2023  10:01:30 [main] INFO  CreateLog:13 - Search bar icon is clicked
+10:08:2023  10:01:31 [main] INFO  CreateLog:13 - Product is clicked
+10:08:2023  10:01:40 [main] INFO  CreateLog:13 - Window is handle
+10:08:2023  10:01:40 [main] INFO  CreateLog:13 - Add to cart is clicked
+10:08:2023  10:01:43 [main] INFO  CreateLog:13 - validated price of product
+10:08:2023  10:01:45 [main] INFO  CreateLog:13 - curser is move to the element  
+10:08:2023  10:01:47 [main] INFO  CreateLog:13 - signout button is clicked
+10:08:2023  10:01:47 [main] INFO  CreateLog:13 - Driver is quit
+10:08:2023  10:53:10 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+10:08:2023  10:53:12 [main] INFO  CreateLog:13 - URL is launched
+10:08:2023  10:53:12 [main] INFO  CreateLog:13 - Window is maximized
+10:08:2023  10:53:13 [main] INFO  CreateLog:13 - Mousehover action is done
+10:08:2023  10:53:14 [main] INFO  CreateLog:13 - Signin button is clicked
+10:08:2023  10:53:14 [main] INFO  CreateLog:13 - Email id is entered
+10:08:2023  10:53:16 [main] INFO  CreateLog:13 - Continue button is clicked
+10:08:2023  10:53:16 [main] INFO  CreateLog:13 - Password is entered
+10:08:2023  10:53:16 [main] INFO  CreateLog:13 - Sign in button is clicked
+10:08:2023  10:53:19 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+10:08:2023  10:53:22 [main] INFO  CreateLog:13 - Search bar icon is clicked
+10:08:2023  10:53:22 [main] INFO  CreateLog:13 - Product is clicked
+10:08:2023  10:53:30 [main] INFO  CreateLog:13 - Window is handle
+10:08:2023  10:53:52 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+10:08:2023  10:53:54 [main] INFO  CreateLog:13 - URL is launched
+10:08:2023  10:53:54 [main] INFO  CreateLog:13 - Window is maximized
+10:08:2023  10:53:54 [main] INFO  CreateLog:13 - Mousehover action is done
+10:08:2023  10:53:56 [main] INFO  CreateLog:13 - Signin button is clicked
+10:08:2023  10:53:56 [main] INFO  CreateLog:13 - Email id is entered
+10:08:2023  10:53:57 [main] INFO  CreateLog:13 - Continue button is clicked
+10:08:2023  10:53:57 [main] INFO  CreateLog:13 - Password is entered
+10:08:2023  10:53:57 [main] INFO  CreateLog:13 - Sign in button is clicked
+10:08:2023  10:54:01 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+10:08:2023  10:54:03 [main] INFO  CreateLog:13 - Search bar icon is clicked
+10:08:2023  10:54:03 [main] INFO  CreateLog:13 - Product is clicked
+10:08:2023  10:54:12 [main] INFO  CreateLog:13 - Window is handle
+10:08:2023  10:54:12 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+10:08:2023  10:54:12 [main] INFO  CreateLog:13 - Image is validated
+10:08:2023  10:54:12 [main] INFO  CreateLog:13 - Curser is moved to other product
+10:08:2023  10:54:12 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+10:08:2023  10:54:13 [main] INFO  CreateLog:13 - curser is move to the element  
+10:08:2023  10:54:15 [main] INFO  CreateLog:13 - signout button is clicked
+10:08:2023  10:54:15 [main] INFO  CreateLog:13 - Driver is quit
+10:08:2023  10:55:20 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+10:08:2023  10:55:22 [main] INFO  CreateLog:13 - URL is launched
+10:08:2023  10:55:23 [main] INFO  CreateLog:13 - Window is maximized
+10:08:2023  10:55:23 [main] INFO  CreateLog:13 - Mousehover action is done
+10:08:2023  10:55:24 [main] INFO  CreateLog:13 - Signin button is clicked
+10:08:2023  10:55:24 [main] INFO  CreateLog:13 - Email id is entered
+10:08:2023  10:55:26 [main] INFO  CreateLog:13 - Continue button is clicked
+10:08:2023  10:55:26 [main] INFO  CreateLog:13 - Password is entered
+10:08:2023  10:55:26 [main] INFO  CreateLog:13 - Sign in button is clicked
+10:08:2023  10:55:29 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+10:08:2023  10:55:32 [main] INFO  CreateLog:13 - Search bar icon is clicked
+10:08:2023  10:55:32 [main] INFO  CreateLog:13 - Product is clicked
+10:08:2023  10:55:42 [main] INFO  CreateLog:13 - Window is handle
+10:08:2023  10:55:42 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+10:08:2023  10:55:42 [main] INFO  CreateLog:13 - Image is validated
+10:08:2023  10:55:43 [main] INFO  CreateLog:13 - Curser is moved to other product
+10:08:2023  10:55:43 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+10:08:2023  10:55:43 [main] INFO  CreateLog:13 - curser is move to the element  
+10:08:2023  10:55:45 [main] INFO  CreateLog:13 - signout button is clicked
+10:08:2023  10:55:45 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  09:41:59 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  09:42:01 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  09:42:01 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:42:15 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  09:42:20 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  09:42:20 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:42:21 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  09:42:23 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  09:42:23 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  09:42:25 [main] INFO  CreateLog:13 - Continue button is clicked
+11:08:2023  09:42:25 [main] INFO  CreateLog:13 - Password is entered
+11:08:2023  09:42:25 [main] INFO  CreateLog:13 - Sign in button is clicked
+11:08:2023  09:42:29 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+11:08:2023  09:42:32 [main] INFO  CreateLog:13 - Search bar icon is clicked
+11:08:2023  09:42:32 [main] INFO  CreateLog:13 - Product is clicked
+11:08:2023  09:42:41 [main] INFO  CreateLog:13 - Window is handle
+11:08:2023  09:42:42 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+11:08:2023  09:42:42 [main] INFO  CreateLog:13 - Image is validated
+11:08:2023  09:42:42 [main] INFO  CreateLog:13 - Curser is moved to other product
+11:08:2023  09:42:42 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+11:08:2023  09:42:43 [main] INFO  CreateLog:13 - curser is move to the element  
+11:08:2023  09:42:45 [main] INFO  CreateLog:13 - signout button is clicked
+11:08:2023  09:42:46 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  09:52:26 [main] INFO  CreateLog:13 - Test-Report-11.08.2023.09.52.26.html Report generating started
+11:08:2023  09:52:29 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  09:52:34 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  09:52:34 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:52:35 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  09:52:37 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  09:52:37 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  09:52:39 [main] INFO  CreateLog:13 - Continue button is clicked
+11:08:2023  09:52:39 [main] INFO  CreateLog:13 - Password is entered
+11:08:2023  09:52:39 [main] INFO  CreateLog:13 - Sign in button is clicked
+11:08:2023  09:52:39 [main] INFO  CreateLog:13 - searchMobileTest Test case started
+11:08:2023  09:52:45 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+11:08:2023  09:52:48 [main] INFO  CreateLog:13 - Search bar icon is clicked
+11:08:2023  09:52:49 [main] INFO  CreateLog:13 - Product is clicked
+11:08:2023  09:53:00 [main] INFO  CreateLog:13 - Window is handle
+11:08:2023  09:53:01 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+11:08:2023  09:53:01 [main] INFO  CreateLog:13 - Image is validated
+11:08:2023  09:53:01 [main] INFO  CreateLog:13 - Curser is moved to other product
+11:08:2023  09:53:02 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+11:08:2023  09:53:02 [main] INFO  CreateLog:18 - searchMobileTest Test case executed successfully
+11:08:2023  09:53:02 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:53:02 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  09:53:04 [main] INFO  CreateLog:13 - signout button is clicked
+11:08:2023  09:53:04 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  09:53:07 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  09:53:11 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  09:53:11 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:53:11 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  09:53:14 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  09:53:14 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  09:53:16 [main] INFO  CreateLog:13 - Continue button is clicked
+11:08:2023  09:53:16 [main] INFO  CreateLog:13 - Password is entered
+11:08:2023  09:53:16 [main] INFO  CreateLog:13 - Sign in button is clicked
+11:08:2023  09:53:16 [main] INFO  CreateLog:13 - addToCartTest Test case started
+11:08:2023  09:53:21 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+11:08:2023  09:53:26 [main] INFO  CreateLog:13 - Search bar icon is clicked
+11:08:2023  09:53:26 [main] INFO  CreateLog:13 - Product is clicked
+11:08:2023  09:53:39 [main] INFO  CreateLog:13 - Window is handle
+11:08:2023  09:53:40 [main] INFO  CreateLog:13 - Add to cart is clicked
+11:08:2023  09:53:43 [main] INFO  CreateLog:13 - validated price of product
+11:08:2023  09:53:46 [main] INFO  CreateLog:18 - addToCartTest Test case executed successfully
+11:08:2023  09:53:46 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  09:53:46 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  09:53:48 [main] INFO  CreateLog:13 - signout button is clicked
+11:08:2023  09:53:49 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  09:53:50 [main] INFO  CreateLog:13 - Report generated successfully
+11:08:2023  10:08:33 [main] INFO  CreateLog:13 - Test-Report-11.08.2023.10.08.33.html Report generating started
+11:08:2023  10:08:37 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  10:08:43 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  10:08:44 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  10:08:44 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  10:08:47 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  10:08:47 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  10:08:49 [main] INFO  CreateLog:13 - Continue button is clicked
+11:08:2023  10:08:49 [main] INFO  CreateLog:13 - Password is entered
+11:08:2023  10:08:50 [main] INFO  CreateLog:13 - Sign in button is clicked
+11:08:2023  10:08:50 [main] INFO  CreateLog:13 - searchMobileTest Test case started
+11:08:2023  10:08:55 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+11:08:2023  10:08:59 [main] INFO  CreateLog:13 - Search bar icon is clicked
+11:08:2023  10:08:59 [main] INFO  CreateLog:13 - Product is clicked
+11:08:2023  10:09:12 [main] INFO  CreateLog:13 - Window is handle
+11:08:2023  10:09:13 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+11:08:2023  10:09:13 [main] INFO  CreateLog:13 - Image is validated
+11:08:2023  10:09:13 [main] INFO  CreateLog:13 - Curser is moved to other product
+11:08:2023  10:09:13 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+11:08:2023  10:09:13 [main] INFO  CreateLog:18 - searchMobileTest Test case executed successfully
+11:08:2023  10:09:13 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  10:09:14 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  10:09:16 [main] INFO  CreateLog:13 - signout button is clicked
+11:08:2023  10:09:16 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  10:09:19 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  10:09:25 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  10:09:25 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  10:09:25 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  10:09:28 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  10:09:28 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  10:09:30 [main] INFO  CreateLog:13 - Continue button is clicked
+11:08:2023  10:09:30 [main] INFO  CreateLog:13 - Password is entered
+11:08:2023  10:09:30 [main] INFO  CreateLog:13 - Sign in button is clicked
+11:08:2023  10:09:30 [main] INFO  CreateLog:13 - addToCartTest Test case started
+11:08:2023  10:09:36 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+11:08:2023  10:09:41 [main] INFO  CreateLog:13 - Search bar icon is clicked
+11:08:2023  10:09:41 [main] INFO  CreateLog:13 - Product is clicked
+11:08:2023  10:09:54 [main] INFO  CreateLog:13 - Window is handle
+11:08:2023  10:09:54 [main] INFO  CreateLog:13 - Add to cart is clicked
+11:08:2023  10:09:57 [main] INFO  CreateLog:13 - validated price of product
+11:08:2023  10:10:00 [main] INFO  CreateLog:18 - addToCartTest Test case executed successfully
+11:08:2023  10:10:00 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  10:10:00 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  10:10:02 [main] INFO  CreateLog:13 - signout button is clicked
+11:08:2023  10:10:03 [main] INFO  CreateLog:13 - Driver is quit
+11:08:2023  10:10:04 [main] INFO  CreateLog:13 - Report generated successfully
+11:08:2023  11:37:50 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+11:08:2023  11:37:56 [main] INFO  CreateLog:13 - URL is launched
+11:08:2023  11:37:57 [main] INFO  CreateLog:13 - Window is maximized
+11:08:2023  11:37:57 [main] INFO  CreateLog:13 - Mousehover action is done
+11:08:2023  11:37:58 [main] INFO  CreateLog:13 - Signin button is clicked
+11:08:2023  11:37:58 [main] INFO  CreateLog:13 - Email id is entered
+11:08:2023  11:37:59 [main] INFO  CreateLog:13 - Continue button is clicked
+16:08:2023  11:49:41 [main] INFO  CreateLog:13 - Test-Report-16.08.2023.11.49.41.html Report generating started
+16:08:2023  11:49:44 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:08:2023  11:49:48 [main] INFO  CreateLog:13 - URL is launched
+16:08:2023  11:49:48 [main] INFO  CreateLog:13 - Window is maximized
+16:08:2023  11:49:48 [main] INFO  CreateLog:13 - Mousehover action is done
+16:08:2023  11:49:49 [main] INFO  CreateLog:13 - Signin button is clicked
+16:08:2023  11:49:50 [main] INFO  CreateLog:13 - Email id is entered
+16:08:2023  11:49:51 [main] INFO  CreateLog:13 - Continue button is clicked
+16:08:2023  11:49:51 [main] INFO  CreateLog:13 - Password is entered
+16:08:2023  11:49:52 [main] INFO  CreateLog:13 - Sign in button is clicked
+16:08:2023  11:49:52 [main] INFO  CreateLog:13 - searchMobileTest Test case started
+16:08:2023  11:49:55 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+16:08:2023  11:49:58 [main] INFO  CreateLog:13 - Search bar icon is clicked
+16:08:2023  11:49:58 [main] INFO  CreateLog:13 - Product is clicked
+16:08:2023  11:50:07 [main] INFO  CreateLog:13 - Window is handle
+16:08:2023  11:50:07 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+16:08:2023  11:50:07 [main] INFO  CreateLog:13 - Image is validated
+16:08:2023  11:50:07 [main] INFO  CreateLog:13 - Curser is moved to other product
+16:08:2023  11:50:08 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+16:08:2023  11:50:08 [main] INFO  CreateLog:18 - searchMobileTest Test case executed successfully
+16:08:2023  11:50:08 [main] INFO  CreateLog:13 - Window is maximized
+16:08:2023  11:50:08 [main] INFO  CreateLog:13 - Mousehover action is done
+16:08:2023  11:50:09 [main] INFO  CreateLog:13 - signout button is clicked
+16:08:2023  11:50:09 [main] INFO  CreateLog:13 - Driver is quit
+16:08:2023  11:50:11 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+21:08:2023  16:34:52 [main] INFO  CreateLog:13 - Test-Report-21.08.2023.16.34.52.html Report generating started
+21:08:2023  16:34:56 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+21:08:2023  16:35:03 [main] INFO  CreateLog:13 - URL is launched
+21:08:2023  16:35:04 [main] INFO  CreateLog:13 - Window is maximized
+21:08:2023  16:35:04 [main] INFO  CreateLog:13 - Mousehover action is done
+21:08:2023  16:35:07 [main] INFO  CreateLog:13 - Signin button is clicked
+21:08:2023  16:35:07 [main] INFO  CreateLog:13 - Email id is entered
+21:08:2023  16:35:09 [main] INFO  CreateLog:13 - Continue button is clicked
+21:08:2023  16:35:09 [main] INFO  CreateLog:13 - Password is entered
+21:08:2023  16:35:09 [main] INFO  CreateLog:13 - Sign in button is clicked
+21:08:2023  16:35:10 [main] INFO  CreateLog:13 - searchMobileTest Test case started
+21:08:2023  16:35:15 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+21:08:2023  16:35:19 [main] INFO  CreateLog:13 - Search bar icon is clicked
+21:08:2023  16:35:19 [main] INFO  CreateLog:13 - Product is clicked
+21:08:2023  16:35:33 [main] INFO  CreateLog:13 - Window is handle
+21:08:2023  16:35:33 [main] INFO  CreateLog:13 - Mouse hover is done to the product
+21:08:2023  16:35:33 [main] INFO  CreateLog:13 - Image is validated
+21:08:2023  16:35:34 [main] INFO  CreateLog:13 - Curser is moved to other product
+21:08:2023  16:35:34 [main] INFO  CreateLog:13 - Zoomimage is not present after curser is move to other element
+21:08:2023  16:35:34 [main] INFO  CreateLog:18 - searchMobileTest Test case executed successfully
+21:08:2023  16:35:34 [main] INFO  CreateLog:13 - Window is maximized
+21:08:2023  16:35:34 [main] INFO  CreateLog:13 - Mousehover action is done
+21:08:2023  16:35:36 [main] INFO  CreateLog:13 - signout button is clicked
+21:08:2023  16:35:37 [main] INFO  CreateLog:13 - Driver is quit
+21:08:2023  16:35:39 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+21:08:2023  16:35:45 [main] INFO  CreateLog:13 - URL is launched
+21:08:2023  16:35:45 [main] INFO  CreateLog:13 - Window is maximized
+21:08:2023  16:35:46 [main] INFO  CreateLog:13 - Mousehover action is done
+21:08:2023  16:35:48 [main] INFO  CreateLog:13 - Signin button is clicked
+21:08:2023  16:35:48 [main] INFO  CreateLog:13 - Email id is entered
+21:08:2023  16:35:50 [main] INFO  CreateLog:13 - Continue button is clicked
+21:08:2023  16:35:50 [main] INFO  CreateLog:13 - Password is entered
+21:08:2023  16:35:50 [main] INFO  CreateLog:13 - Sign in button is clicked
+21:08:2023  16:35:50 [main] INFO  CreateLog:13 - addToCartTest Test case started
+21:08:2023  16:35:56 [main] INFO  CreateLog:13 - Mobile name is entered in search bar
+21:08:2023  16:36:00 [main] INFO  CreateLog:13 - Search bar icon is clicked
+21:08:2023  16:36:01 [main] INFO  CreateLog:13 - Product is clicked
+21:08:2023  16:36:13 [main] INFO  CreateLog:13 - Window is handle
+21:08:2023  16:36:14 [main] INFO  CreateLog:13 - Add to cart is clicked
+21:08:2023  16:36:18 [main] INFO  CreateLog:13 - validated price of product
+21:08:2023  16:36:20 [main] INFO  CreateLog:18 - addToCartTest Test case executed successfully
+21:08:2023  16:36:20 [main] INFO  CreateLog:13 - Window is maximized
+21:08:2023  16:36:21 [main] INFO  CreateLog:13 - Mousehover action is done
+21:08:2023  16:36:23 [main] INFO  CreateLog:13 - signout button is clicked
+21:08:2023  16:36:24 [main] INFO  CreateLog:13 - Driver is quit
+21:08:2023  16:36:24 [main] INFO  CreateLog:13 - Report generated successfully
